@@ -1,0 +1,14 @@
+{
+  "name": "fcm-bridge-v1",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "google-auth-library": "^9.14.1",
+    "node-fetch": "^2.6.7"
+  }
+}
